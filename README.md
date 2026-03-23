@@ -208,7 +208,6 @@ This model helps businesses:
 
 ---
 
-## 👨‍💻 Author
 <div align="center" style="background: #f8f9fa; padding: 20px; border-radius: 12px; border: 2px solid #0078D4; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-width: 600px; margin: 30px auto;">
   <h3 style="color: #00BCF2; margin: 0 0 10px;">Get in Touch</h3>
   <p style="margin: 5px 0; color: #333;">
