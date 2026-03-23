@@ -85,13 +85,12 @@ Detailed explanation of:
 ### 🌡️ Seasonality Heatmap
 
 <p align="center">
-  <img width="3232" height="2424" alt="seasonality_heatmap" src="https://github.com/user-attachments/assets/92144bb4-d288-48c2-b37f-57584ed0381b" />
+  <img src="https://github.com/user-attachments/assets/92144bb4-d288-48c2-b37f-57584ed0381b"
        alt="Seasonality Heatmap"
        width="800"
-       style="border:2px solid #2E86C1; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-  <br><em>Seasonality Heatmap — monthly demand trends (green = peak, red = low)</em>
+       style="border:2px solid #0078D4; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <br><em>Seasonality Heatmap — highlights demand patterns (peak vs low months) across all 25 SKUs</em>
 </p>
-
 ---
 
 ## ⚙️ Forecast Methodology
