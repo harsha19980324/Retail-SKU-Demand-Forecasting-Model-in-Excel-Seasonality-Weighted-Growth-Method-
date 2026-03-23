@@ -224,14 +224,4 @@ This model helps businesses:
   </p>
 </div>
 
----
 
-## ⭐ Support
-
-If you found this useful:
-
-👉 Give this repository a ⭐  
-👉 Share with others  
-👉 Connect for collaboration  
-
----
