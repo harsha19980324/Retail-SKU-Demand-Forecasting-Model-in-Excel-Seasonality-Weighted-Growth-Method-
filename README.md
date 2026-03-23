@@ -74,13 +74,12 @@ Detailed explanation of:
 ### 📊 Forecast Dashboard
 
 <p align="center">
- <img width="3552" height="2257" alt="forecast_dashboard" src="https://github.com/user-attachments/assets/fd2a90f3-5bde-431a-99b4-afb55e080162" />  
+  <img src="[images/forecast_dashboard.png](https://github.com/user-attachments/assets/fd2a90f3-5bde-431a-99b4-afb55e080162)"
        alt="Forecast Dashboard"
        width="800"
-       style="border:2px solid #2E86C1; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-  <br><em>2026 Monthly Sales Forecast Dashboard — showing SKU trends and growth patterns</em>
+       style="border:2px solid #0078D4; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <br><em>2026 Sales Forecast Dashboard — includes monthly projections, SKU trends, and weighted growth analysis</em>
 </p>
-
 ---
 
 ### 🌡️ Seasonality Heatmap
