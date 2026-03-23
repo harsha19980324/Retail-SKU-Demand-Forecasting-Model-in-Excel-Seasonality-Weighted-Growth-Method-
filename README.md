@@ -201,12 +201,6 @@ This model helps businesses:
 ## 📄 Project Summary
 
 <p align="center">
-  https://github.com/user-attachments/files/26179531/project_summary.pdf
-       style="text-decoration:none; font-size:18px; font-weight:bold; color:#2E86C1;">
-     📥 Download Full Project Summary (PDF)
-  </a>
-</p>
-<p align="center">
   <a href="https://github.com/user-attachments/files/26179531/project_summary.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download-PDF%20Summary-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
