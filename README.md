@@ -11,6 +11,7 @@ The model uses **historical sales data (2022–2025)** to generate a **monthly f
 * Weighted growth logic
 
 ---
+<img width="3552" height="2257" alt="forecast_dashboard" src="https://github.com/user-attachments/assets/f020ee39-efea-433e-ad06-df861125b542" />
 
 ## 📂 Project Structure
 
