@@ -74,9 +74,7 @@ Detailed explanation of:
 ### 📊 Forecast Dashboard
 
 <p align="center">
- <img width="3552" height="2257" alt="forecast_dashboard" src="https://github.com/user-attachments/assets/fd2a90f3-5bde-431a-99b4-afb55e080162" />
-
-  <img src="[images/forecast_dashboard.png](https://github.com/user-attachments/assets/fd2a90f3-5bde-431a-99b4-afb55e080162)"
+ <img width="3552" height="2257" alt="forecast_dashboard" src="https://github.com/user-attachments/assets/fd2a90f3-5bde-431a-99b4-afb55e080162" />  
        alt="Forecast Dashboard"
        width="800"
        style="border:2px solid #2E86C1; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
@@ -88,7 +86,7 @@ Detailed explanation of:
 ### 🌡️ Seasonality Heatmap
 
 <p align="center">
-  <img src="images/seasonality_heatmap.png"
+  <img width="3232" height="2424" alt="seasonality_heatmap" src="https://github.com/user-attachments/assets/92144bb4-d288-48c2-b37f-57584ed0381b" />
        alt="Seasonality Heatmap"
        width="800"
        style="border:2px solid #2E86C1; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
@@ -212,8 +210,8 @@ This model helps businesses:
 ## 📄 Project Summary
 
 <p align="center">
-  <a href="project_summary.pdf" target="_blank" 
-     style="text-decoration:none; font-size:18px; font-weight:bold; color:#2E86C1;">
+  [project_summary.pdf](https://github.com/user-attachments/files/26179531/project_summary.pdf)
+       style="text-decoration:none; font-size:18px; font-weight:bold; color:#2E86C1;">
      📥 Download Full Project Summary (PDF)
   </a>
 </p>
