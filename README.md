@@ -210,7 +210,7 @@ This model helps businesses:
 ## 📄 Project Summary
 
 <p align="center">
-  [project_summary.pdf](https://github.com/user-attachments/files/26179531/project_summary.pdf)
+  https://github.com/user-attachments/files/26179531/project_summary.pdf
        style="text-decoration:none; font-size:18px; font-weight:bold; color:#2E86C1;">
      📥 Download Full Project Summary (PDF)
   </a>
