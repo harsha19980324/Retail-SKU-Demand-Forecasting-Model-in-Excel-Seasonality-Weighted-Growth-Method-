@@ -80,6 +80,7 @@ Detailed explanation of:
        style="border:2px solid #0078D4; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
   <br><em>2026 Sales Forecast Dashboard — includes monthly projections, SKU trends, and weighted growth analysis</em>
 </p>
+
 ---
 
 ### 🌡️ Seasonality Heatmap
@@ -91,6 +92,7 @@ Detailed explanation of:
        style="border:2px solid #0078D4; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
   <br><em>Seasonality Heatmap — highlights demand patterns (peak vs low months) across all 25 SKUs</em>
 </p>
+
 ---
 
 ## ⚙️ Forecast Methodology
