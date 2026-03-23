@@ -74,7 +74,7 @@ Detailed explanation of:
 ### 📊 Forecast Dashboard
 
 <p align="center">
-  <img src="[images/forecast_dashboard.png](https://github.com/user-attachments/assets/fd2a90f3-5bde-431a-99b4-afb55e080162)"
+  <img src="https://github.com/user-attachments/assets/fd2a90f3-5bde-431a-99b4-afb55e080162"
        alt="Forecast Dashboard"
        width="800"
        style="border:2px solid #0078D4; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
